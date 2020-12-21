@@ -34,4 +34,7 @@ events: null
   flex-direction: column;
   align-items: center;
 }
+h1 {
+  color: #096ce4;
+}
 </style>
